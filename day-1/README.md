@@ -55,3 +55,10 @@ A Large Language Model (LLM) is an advanced AI system trained on vast amounts of
 
 ---
 
+## AI Landscape for Devops Engineers
+
+<img width="1159" height="625" alt="image" src="https://github.com/user-attachments/assets/34abd204-ab67-4427-b0fd-ac8dfee0d14a" />
+
+
+---
+
