@@ -1,5 +1,9 @@
 # Day - 1 
 
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/b9598171-9cb4-45d7-91a8-630db7d6eebf" />
+
+
+
 ## 1. Traditional AI in DevOps
 Traditional AI relies on **structured data, pre-defined rules, and predictive models** trained on historical data. It excels at classification, forecasting, and anomaly detection.
 
@@ -46,6 +50,8 @@ Generative AI (Gen AI) leverages **large language models (LLMs)** to analyze, su
 
 ## 3. Large Language Model
 A Large Language Model (LLM) is an advanced AI system trained on vast amounts of text data to understand, generate, and process human language. These models use deep learning techniques, particularly transformers (like GPT, BERT, or LLaMA), to recognize patterns, predict words, and generate human-like responses.
+
+<img width="991" height="498" alt="image" src="https://github.com/user-attachments/assets/71c809ba-07a5-45a8-ab72-fefff7c37f11" />
 
 ---
 
