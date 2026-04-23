@@ -189,3 +189,5 @@ Iterate and refine – If the output isn’t ideal, adjust the prompt.
 
 Use CoT for complex tasks – Step-by-step reasoning improves accuracy.
 
+<img width="1242" height="441" alt="image" src="https://github.com/user-attachments/assets/66baf099-f5af-4f1b-86a3-95b4980bca52" />
+
