@@ -48,7 +48,7 @@ A GenAI powered tool that generates optimized Dockerfiles based on programming l
 
 2. **Install Dependencies**
    ```bash
-   pip3 install -r requirements.txt
+   pip3 install -r local-llms-ollama/requirements.txt
    ```
 
 3. **Run the Application**
