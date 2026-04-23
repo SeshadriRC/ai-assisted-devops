@@ -1,3 +1,14 @@
+
+
+
+## Advantages and DisAdvantages of Local and Hosted LLM's
+
+<img width="1892" height="687" alt="image" src="https://github.com/user-attachments/assets/2423f434-6369-410a-80e9-f2251cde9247" />
+
+
+<img width="1834" height="917" alt="image" src="https://github.com/user-attachments/assets/419508e0-73e7-41ec-8c9d-688f0eb8796b" />
+
+
 # 🐳 Dockerfile Generator
 
 A GenAI powered tool that generates optimized Dockerfiles based on programming language input. This project uses Ollama with the Llama3 model to create Dockerfiles following best practices.
