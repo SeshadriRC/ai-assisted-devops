@@ -1,5 +1,5 @@
 
-
+- LLM (Large Language Model) is an AI model trained on vast text data to understand and generate human-like language.
 
 ## Advantages and DisAdvantages of Local and Hosted LLM's
 
