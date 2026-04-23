@@ -2,6 +2,33 @@
 
 Prompt engineering is the art of crafting instructions to get the most accurate and helpful responses from AI models. In this guide, you'll learn how to master prompt engineering using the following techniques, with DevOps-related examples:
 
+<img width="1713" height="697" alt="image" src="https://github.com/user-attachments/assets/5f46692b-91ff-4c10-af4a-c62e2c554152" />
+
+
+## Good prompt
+
+- Below prompt will generate unnecessary things, its not required. Due to this token usage will be high
+```
+Generate a Kubernetes manifest for Deployment Resource
+```
+
+<img width="1752" height="783" alt="image" src="https://github.com/user-attachments/assets/475c8999-8c6d-436e-81ce-6fcec427c0c1" />
+
+## Bad prompt
+
+- Below prompt will generate only required things. Due to this token usage will be low and cost also will get reduced.
+
+```
+Generate ONLY Kubernetes manifest for Deployment manifest
+```
+
+## API key
+
+- API key for the model is not free, we need to pay money.
+
+<img width="1819" height="779" alt="image" src="https://github.com/user-attachments/assets/ca3bcfe8-418d-412b-8f3c-19e828726e03" />
+
+
 ## Zero-Shot Prompting
 
 In zero-shot prompting, the AI is asked to generate a response without any prior examples or context. It relies entirely on the AI’s general understanding of the task.
